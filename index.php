@@ -5,6 +5,7 @@
 </head>
 <body>
 	<center><h3>TABEL BIODATA</h3>
+	<a href="tambah_data.php"><center><button>Tambah Data</button></center></a><br><br>
     <table style="margin-left:auto;margin-right:auto" border="1">
         <tr style="text-align: center;" >
             <th>No</th>
